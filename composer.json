@@ -1,0 +1,21 @@
+{
+    "name": "thang/cse485_2023_btth03",
+    "autoload": {
+        "psr-4": {
+        "App\\": "src/"
+    }
+    },
+    "authors": [
+        {
+            "name": "Thang",
+            "email": "thangchien86@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.5",
+         "phpunit/phpunit": "^9.5",
+        "phpmailer/phpmailer": "^6.8"
+    }
+
+
+}
